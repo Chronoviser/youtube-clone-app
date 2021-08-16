@@ -14,7 +14,7 @@ function App() {
               params: {
                   part: 'snippet',
                   maxResults: 10,
-                  key: 'AIzaSyBwG2qRcYNn10d03zbXX0RjuWM_r-s8_zs',
+                  key: '[API_KEY]',
                   q: searchTerm
               }
           });
